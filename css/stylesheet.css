@@ -1,0 +1,48 @@
+
+/**********
+COLORS
+**********/
+
+body {
+	background-color:#63C9EC;
+}
+
+div nav {
+	color:#fff;
+	background-color:#000;
+}
+
+#wrapper {
+	background-color:#D8E8EE;
+	
+}
+
+footer {
+	color:#fff;
+	background-color:#000;
+}
+
+/**********
+TEXT
+**********/
+
+body {
+
+}
+
+div nav {
+	text-align:right;
+}
+
+#wrapper {
+	text-align:center;
+}
+
+/**********
+SIZING
+**********/
+
+#wrapper {
+	max-width:800px;
+	margin:0 auto;
+}
