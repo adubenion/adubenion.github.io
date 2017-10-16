@@ -1,3 +1,6 @@
+import React from 'react';
+import {HashRouter as Router, Route} from 'react-router-dom'
+
 var destination = document.querySelector('#root');
 
 class App extends React.Component {
@@ -9,6 +12,7 @@ class App extends React.Component {
 		);
 	}
 }
+console.log('this component loaded');
 
 ReactDOM.render(
 	<App />,
